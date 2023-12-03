@@ -1,0 +1,48 @@
+{
+  "flights": [
+    {
+      "flight_number": "FL001",
+      "origin": "HKG",
+      "destination": "HND",
+      "seats": {
+        "first_class": [["1A", "1B"]],
+        "business_class": [],
+        "premium_economy": [],
+        "economy": []
+      }
+    },
+    {
+      "flight_number": "FL002",
+      "origin": "NRT",
+      "destination": "HKG",
+      "seats": {
+        "first_class": [],
+        "business_class": [],
+        "premium_economy": [],
+        "economy": []
+      }
+    },
+    {
+      "flight_number": "FL003",
+      "origin": "HND",
+      "destination": "NRT",
+      "seats": {
+        "first_class": [],
+        "business_class": [],
+        "premium_economy": [],
+        "economy": []
+      }
+    },
+    {
+      "flight_number": "FL004",
+      "origin": "NRT",
+      "destination": "HND",
+      "seats": {
+        "first_class": [],
+        "business_class": [],
+        "premium_economy": [],
+        "economy": []
+      }
+    }
+  ]
+}
